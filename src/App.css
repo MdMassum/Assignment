@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.button1{
+  padding:10 90px;
+  margin:7px;
+  background-color: green;
+ 
+}
+.button2{
+  padding:10px;
+  margin:7px;
+  background-color: crimson;
+}
+.progress{
+  height:25px;
+}
